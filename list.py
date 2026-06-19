@@ -45,3 +45,69 @@
 # a=[1,2,[100,120],3,4]
 # print(a[2])
 # print(a[2][0])
+
+#inbuilt methods
+
+#to add elements 
+
+# append() - adds an element to the end of the list
+# a=[1,2,3,4]
+# a.append(100)
+# a.append(200)
+
+# extend() - adds an iterable(anything which has a collection of elements to the list
+# a=[1,2,3,4]
+# a.extend([23,24,'mohan'])
+# a.extend('hari')
+# print(a)
+
+# insert(index,value)
+# a=[1,2,3,4]
+# a.insert(0,'mohan')
+# a.insert(2,[1,2,3,4])
+# print(a)
+
+
+#to remove elements
+
+#remove() - remove element directly
+
+#pop()
+
+# a=[11,12,13,14,15,16,17]
+# a.pop()
+# a.pop(0)
+# a.pop(0)
+# a.pop(3)
+# print(a)
+
+
+#Tuple-also a collection of data
+
+# a=(1,2,,'mohan',2.2)
+#ordered
+#indexed
+#immutable
+
+# a=(1,2,3,4)
+# a[0]=10
+# print(a)
+# TypeError: 'tuple' object does not support item assignment
+
+#iteration
+
+# a=[11,22,33,44,55]
+# b="mohandas"
+c=(11,12,13,14,15)
+for i in c:
+    print(i,end=" ")
+# print(len(b))
+
+# for i in range(0,len(b)):
+#     print(i,b[i])
+
+fruits=['apple','mango','banana','melon']
+for i in range(len(fruits)):
+    print(i,fruits[i])
+
+
