@@ -24,3 +24,24 @@
 # print(a[-1]==a[7])
 
 # same w string,it includes spaces too
+
+#4.lists are mutable
+#str are immutable
+
+# a=[1,2,3,4,5]
+# a[0]='mohan'
+# print(a)
+# #works
+
+# b='mohan'
+# b[0]='h'
+# print(b)
+# #doenst work
+
+#5.dynamic
+
+#6. lists aare nested
+
+# a=[1,2,[100,120],3,4]
+# print(a[2])
+# print(a[2][0])
