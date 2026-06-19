@@ -37,4 +37,5 @@
 # print(f"avg is {sum/count}")
 
 
-#amstring!!!!!!!!!
+#amstrong!!!!!!!!!
+
