@@ -21,14 +21,14 @@
 #\t - tab space
 #\b - backspace
 
-# data=  'love is in the air\nso let\'s \"rock \'n\' roll \b  baby!!!\"'
+# data=  'love is in the air\nso let\'s "rock \'n\' roll baby"'
 # print(data)
 
 # data = " googoo\\n \n gaagaa\\b "
 # print(data)
-#raw string 
-# data = r"love is in the air\n \n \t \b."
-# print(data)
+# #raw string 
+# data1 = r"love is in the air\n \n \t \b."
+# print(data1)
 
 #input function
 # input() - returns string
@@ -49,12 +49,12 @@
 
 #string format
 
-# name=input("enter name")
-# age= int(input("enter age"))
-# married_status = bool(input("enter status"))
-# rating = float(input("enter rating"))
+# name=input("enter name:")
+# age= int(input("enter age:"))
+# married_status = (input("enter status:"))
+# rating = float(input("enter rating:"))
 
-# bio = f"my name is {name} , my age is {age} , status is {married_status} , and rating is {rating}"
+# bio = f"my name is {name}\nmy age is {21}\nand i m eligible for marraige but my current status is {married_status},\nand my rating is {rating}"
 # print(bio)
 
 #control statement

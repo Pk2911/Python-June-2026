@@ -52,7 +52,7 @@
 
 # append() - adds an element to the end of the list
 # a=[1,2,3,4]
-# a.append(100)
+# a.append(200)
 # a.append(200)
 
 # extend() - adds an iterable(anything which has a collection of elements to the list
@@ -98,16 +98,16 @@
 
 # a=[11,22,33,44,55]
 # b="mohandas"
-c=(11,12,13,14,15)
-for i in c:
-    print(i,end=" ")
-# print(len(b))
+# c=(11,12,13,14,15)
+# for i in c:
+#     print(i,end=" ")
+# # print(len(b))
 
-# for i in range(0,len(b)):
-#     print(i,b[i])
+# # for i in range(0,len(b)):
+# #     print(i,b[i])
 
-fruits=['apple','mango','banana','melon']
-for i in range(len(fruits)):
-    print(i,fruits[i])
+# fruits=['apple','mango','banana','melon']
+# for i in range(len(fruits)):
+#     print(i,fruits[i])
 
 

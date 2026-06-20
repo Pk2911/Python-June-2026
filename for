@@ -4,17 +4,17 @@
 
 #range(start,stop,step)
 
-# for i in range(0,10,1)
+# for i in range(0,10,1):
 # for i in range(2,7,2):
 #     print(i)
 
-# #100 numbers sum
+# # #100 numbers sum
 # sum=0
-# for i in range(0,101,1):
+# for i in range(0,101,10):
 #     sum=sum+i
 # print(sum)
 
-#fac
+# fac
 # num=int(input("enter your number:"))
 # fac=1
 # for i in range(fac,num,1):
@@ -39,3 +39,4 @@
 
 #amstrong!!!!!!!!!
 
+#fibonacci!!!

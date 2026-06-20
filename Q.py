@@ -65,7 +65,7 @@
 # not
 # a=10
 
-# print(not a ==10)
+# print(not a==10)
 
 #largest of 3 nos
 # a=10
