@@ -1,4 +1,4 @@
-#turn strings which are in a list into a complete string
+#turn a list into a string
 
 
 
