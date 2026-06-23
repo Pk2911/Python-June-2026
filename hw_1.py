@@ -1,4 +1,4 @@
-# input n words , make it into a sentence
+# # # input n words , make it into a sentence
 # n=int(input("enter number of words:"))
 # sentence=""
 # for i in range(n):

@@ -1,0 +1,1 @@
+#turn strings which are in a list into a complete string
