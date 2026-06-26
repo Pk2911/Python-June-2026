@@ -83,6 +83,7 @@ if age >= 18:
 elif age < 18:
     print("You are a minor.")
 
+b = "hello"
 
 
 
