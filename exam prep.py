@@ -86,7 +86,7 @@
 
 for i in range(8):
     for j in range(8):
-        if (i==0 or i==3 or i==7)or(i):
+        if (i==0 or i==3 or i==7)or(i<5 or j==0):
             print("*",end=" ")
         else:
             print(" ",end=" ")
