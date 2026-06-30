@@ -83,13 +83,12 @@
 #             print(" ",end=" ")
 #     print()
 
+#print S with "*"
+# for i in range(8):
+#     for j in range(8):
+#         if (i==0 or i==3 or i==7)or(0<i<4 and j==0) or (3<i<7 and j==7):
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
 
-for i in range(8):
-    for j in range(8):
-        if (i==0 or i==3 or i==7)or(i<5 or j==0):
-            print("*",end=" ")
-        else:
-            print(" ",end=" ")
-    print()
-
-#diagonqal S
