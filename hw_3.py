@@ -29,10 +29,13 @@ def check_bmi(w,h):
     else:
         category = "Obese"
     return bmi,category
+def main():
 
-w = float(input("Enter weight: "))
-h = float(input("Enter height: "))
+    w = float(input("Enter weight: "))
+    h = float(input("Enter height: "))
 
-bmi_value, bmi_category = check_bmi(w, h)
-print("BMI:", bmi_value)
-print("Category:", bmi_category)
+    bmi_value, bmi_category = check_bmi(w, h)
+    print("BMI:", bmi_value)
+    print("Category:", bmi_category)
+
+main()
